@@ -22,7 +22,8 @@ This project involves designing, developing, and testing a fingerprint-based doo
  
 
 ## Files in this Repo  
-- `23047469 EvaniRaut Team 1.pdf` — Full project report
+## Files in this Repo  
+- [23047469 EvaniRaut Team 1.pdf](./23047469%20EvaniRaut%20Team%201.pdf) — Full project report
 
 ## Key Learnings  
 - IoT hardware integration with microcontrollers  
