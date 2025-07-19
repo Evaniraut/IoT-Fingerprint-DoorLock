@@ -22,10 +22,7 @@ This project involves designing, developing, and testing a fingerprint-based doo
  
 
 ## Files in this Repo  
-- `23047473_EvaniRaut_FingerprintDoorLock.pdf` — Full detailed report including design, implementation, testing, and analysis  
-- `Source_Code.zip` — Source code files for fingerprint enrollment and verification  
-- `Hardware_Diagrams.pdf` — Block, circuit, and schematic diagrams  
-- `Testing_Results.pdf` — Documentation of all tests and outcomes  
+- `23047469 EvaniRaut Team 1.pdf` — Full project report
 
 ## Key Learnings  
 - IoT hardware integration with microcontrollers  
